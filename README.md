@@ -51,7 +51,7 @@ Mental_health dataset from Kaggle is used in this analysis contains responses fr
 
 ## **Installation/Setup Instructions:**
 1. Clone this repository or download the notebook file.
-2. Install the required libraries (if needed): pip install pandas numpy sqlite3 matplotlib
+2. Install the required libraries (if needed): pip install pandas numpy sqlite3 matplotlib scipy.stats  matplotlib.ticker seaborn
 3. Ensure the database file mental_health.sqlite is located in the correct directory.
 4. Open terminal and run: jupyter notebook
 5. Open the notebook EDA.ipynb and execute the cells to run the analysis.
