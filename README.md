@@ -37,11 +37,6 @@ Each notebook section explains the question being analyzed and includes a brief 
 
 ## How to Run It
 
-```bash
-pip install numpy pandas seaborn matplotlib scipy
-jupyter lab
-```
-
 Open the notebook and run all cells.
 
 ---
@@ -57,5 +52,4 @@ Open the notebook and run all cells.
 
 ## Technologies Used
 Python, Pandas, NumPy, SQLite, SciPy, Matplotlib, Seaborn
-# EDA_Mental_health_in_teach
 # EDA_Mental_health_in_teach
